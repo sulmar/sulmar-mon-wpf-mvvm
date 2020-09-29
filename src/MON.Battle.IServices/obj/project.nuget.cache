@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EdHK2SwmZ+9ziMwXdrXoQzdUAExRn3gP6gsOkzHbyFY9rXnQlwRKrgdC7ZP30bgJuNPY4vwf0R3SSCm0idwGXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.IServices\\MON.Battle.IServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

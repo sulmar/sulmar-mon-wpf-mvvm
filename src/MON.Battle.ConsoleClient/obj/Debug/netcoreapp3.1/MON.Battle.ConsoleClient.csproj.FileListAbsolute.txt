@@ -1,0 +1,13 @@
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\obj\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\obj\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\obj\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.AssemblyInfo.cs
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\obj\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\bin\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.exe
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\bin\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.deps.json
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\bin\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.runtimeconfig.json
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\bin\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.runtimeconfig.dev.json
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\bin\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.dll
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\bin\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.pdb
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\obj\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.dll
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\obj\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.pdb
+C:\Users\marci\source\repos\MON.Battle\MON.Battle.ConsoleClient\obj\Debug\netcoreapp3.1\MON.Battle.ConsoleClient.genruntimeconfig.cache

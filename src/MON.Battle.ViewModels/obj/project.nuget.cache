@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNudTbeoAhzdONkGbOo36cxifP8nyROy45FOdJQc6bnYTBj9AdxmBpjiGGV8HHsX6q33pk2274OeC9VeVZCVRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.ViewModels\\MON.Battle.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\bogus\\31.0.2\\bogus.31.0.2.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

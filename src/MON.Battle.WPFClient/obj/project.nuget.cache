@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OTMtAch0haQlAgv6RXk99AHIHMnQWtTfbVWQwV33s1evlyoz/ATD/F/FMo6s8wlDJ3Y8GL0PU/BtRWtaAPcpLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.WPFClient\\MON.Battle.WPFClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\bogus\\31.0.2\\bogus.31.0.2.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

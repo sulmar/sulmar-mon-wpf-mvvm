@@ -1,0 +1,117 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "MON.Battle.ViewModels/1.0.0": {
+        "dependencies": {
+          "MON.Battle.FakeServices": "1.0.0",
+          "MON.Battle.IServices": "1.0.0",
+          "MON.Battle.Models": "1.0.0",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "MON.Battle.ViewModels.dll": {}
+        }
+      },
+      "Bogus/31.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Bogus.dll": {
+            "assemblyVersion": "31.0.2.0",
+            "fileVersion": "31.0.2.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "MON.Battle.Fakers/1.0.0": {
+        "dependencies": {
+          "Bogus": "31.0.2",
+          "MON.Battle.Models": "1.0.0"
+        },
+        "runtime": {
+          "MON.Battle.Fakers.dll": {}
+        }
+      },
+      "MON.Battle.FakeServices/1.0.0": {
+        "dependencies": {
+          "Bogus": "31.0.2",
+          "MON.Battle.Fakers": "1.0.0",
+          "MON.Battle.IServices": "1.0.0"
+        },
+        "runtime": {
+          "MON.Battle.FakeServices.dll": {}
+        }
+      },
+      "MON.Battle.IServices/1.0.0": {
+        "dependencies": {
+          "MON.Battle.Models": "1.0.0"
+        },
+        "runtime": {
+          "MON.Battle.IServices.dll": {}
+        }
+      },
+      "MON.Battle.Models/1.0.0": {
+        "runtime": {
+          "MON.Battle.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MON.Battle.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bogus/31.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ij7z2K40b6NV7LarcNuGFH11qrf5r98Eka4roA+16JB9KQIb3yhgjH2ojt1YhJFbAR7kubBU9rj+CooYYBsecg==",
+      "path": "bogus/31.0.2",
+      "hashPath": "bogus.31.0.2.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LR/dipcGfNkA7NQ8O4EwLzSVtVmZX5JrnFlb9SjWbBZrkoJV9/Q7N8/a9Bxg5Y4OhxrtyOyF2LyGmqdXteqF7A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "MON.Battle.Fakers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MON.Battle.FakeServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MON.Battle.IServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MON.Battle.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

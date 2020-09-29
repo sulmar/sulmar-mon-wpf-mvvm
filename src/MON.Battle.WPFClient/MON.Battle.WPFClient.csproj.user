@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\Panels\CanvasView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Panels\DockPanelView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Panels\GridView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Panels\StackPanelView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Panels\UniformGridView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Panels\WrapPanelView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PersonsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ShellView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\VehiclesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\VehicleView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="FundamentalView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Panels\CanvasView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Panels\DockPanelView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Panels\GridView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Panels\StackPanelView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Panels\UniformGridView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Panels\WrapPanelView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PersonsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ShellView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\VehiclesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\VehicleView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

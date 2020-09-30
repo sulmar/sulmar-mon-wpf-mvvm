@@ -15,4 +15,10 @@
     <ProjectReference Include="..\MON.Battle.ViewModels\MON.Battle.ViewModels.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Page Update="Resources\Styles.xaml">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Page>
+  </ItemGroup>
+
 </Project>

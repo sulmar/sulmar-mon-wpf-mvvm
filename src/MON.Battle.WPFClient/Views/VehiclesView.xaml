@@ -5,13 +5,14 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:MON.Battle.WPFClient.Views"
       xmlns:vm="clr-namespace:MON.Battle.ViewModels;assembly=MON.Battle.ViewModels" 
+      DataContext="{Binding Source={StaticResource ViewModelLocator}, Path=VehiclesViewModel}"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="VehiclesView">
 
-    <Page.DataContext>
+    <!--<Page.DataContext>
         <vm:VehiclesViewModel  />
-    </Page.DataContext>
+    </Page.DataContext>-->
 
     <Grid Background="Green">
 
@@ -20,12 +21,27 @@
             <ColumnDefinition />
         </Grid.ColumnDefinitions>
 
-        <!--<ListBox ItemsSource="{Binding Path=Vehicles}"
+        <ListBox ItemsSource="{Binding Path=Vehicles}"
                  SelectedItem="{Binding Path=SelectedVehicle}"
-                 DisplayMemberPath="Model" >
-        </ListBox>-->
+               ItemTemplate="{StaticResource VehicleTemplate}">
+        </ListBox>
 
-        <DataGrid ItemsSource="{Binding Path=Vehicles}"
+        <!--<TabControl ItemsSource="{Binding Vehicles}" >
+
+           
+    
+            <TabControl.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Text="{Binding Model}" />
+                        <TextBlock Text="{Binding Color}" />
+                    </StackPanel>
+                </DataTemplate>
+            </TabControl.ItemTemplate>
+            
+        </TabControl>-->
+
+        <!--<DataGrid ItemsSource="{Binding Path=Vehicles}"
                   SelectedItem="{Binding Path=SelectedVehicle}"
                   AutoGenerateColumns="False">
 
@@ -35,7 +51,7 @@
                 <DataGridCheckBoxColumn Binding="{Binding IsRemoved}" />
             </DataGrid.Columns>
 
-        </DataGrid>
+        </DataGrid>-->
 
         <!--<Frame Grid.Column="1" Source="VehicleView.xaml"  DataContext="{Binding SelectedVehicle}" />-->
 

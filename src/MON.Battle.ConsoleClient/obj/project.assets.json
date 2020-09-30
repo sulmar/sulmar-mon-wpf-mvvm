@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.ConsoleClient\\MON.Battle.ConsoleClient.csproj",
+      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.ConsoleClient\\MON.Battle.ConsoleClient.csproj",
       "projectName": "MON.Battle.ConsoleClient",
-      "projectPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.ConsoleClient\\MON.Battle.ConsoleClient.csproj",
+      "projectPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.ConsoleClient\\MON.Battle.ConsoleClient.csproj",
       "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.ConsoleClient\\obj\\",
+      "outputPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.ConsoleClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

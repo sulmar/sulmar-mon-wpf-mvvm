@@ -5,6 +5,7 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:MON.Battle.WPFClient.Views"
       xmlns:vm="clr-namespace:MON.Battle.ViewModels;assembly=MON.Battle.ViewModels"
+   
       DataContext="{Binding Source={StaticResource ViewModelLocator}, Path=PersonsViewModel}"
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
@@ -14,12 +15,43 @@
         <vm:PersonsViewModel />
     </Page.DataContext>-->
 
+    <Page.Resources>
+       
+       
+    </Page.Resources>
+
     <Grid>
 
-        <ListView ItemsSource="{Binding Persons}"
-                  SelectedItem="{Binding SelectedPerson}"
-                  DisplayMemberPath="FullName"
-                  />
+        <DockPanel>
+
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Top">
+                <Button BorderBrush="Yellow"  Template="{StaticResource MyButtonTemplate}" >Add</Button>
+                <Button Command="{Binding UpdateCommand}" Template="{StaticResource MyButtonTemplate}">Update</Button>
+                <Button>Remove</Button>
+            </StackPanel>
+
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+
+            <ListBox ItemsSource="{Binding Persons}"
+                     SelectedItem="{Binding SelectedPerson}"
+                     ItemTemplate="{StaticResource PersonTemplate}" />
+
+                <StackPanel Grid.Column="1">
+                    <TextBox Text="{Binding SelectedPerson.FirstName}" />
+                    <TextBox Text="{Binding SelectedPerson.LastName}" />
+                    <TextBlock Text="{Binding SelectedPerson.FullName}" />
+                </StackPanel>
+
+
+            </Grid>
+
+        </DockPanel>
 
     </Grid>
 </Page>

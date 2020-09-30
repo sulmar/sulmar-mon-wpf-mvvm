@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.Models\\MON.Battle.Models.csproj",
+      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.Models\\MON.Battle.Models.csproj",
       "projectName": "MON.Battle.Models",
-      "projectPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.Models\\MON.Battle.Models.csproj",
+      "projectPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.Models\\MON.Battle.Models.csproj",
       "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.Models\\obj\\",
+      "outputPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

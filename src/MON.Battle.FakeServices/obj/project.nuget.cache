@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q6YE4/a3Mlen8bidtrXPjH7GtqsSUOUm7zYGQsCUbJKNs/AinOi2vVbyZO5mC03rtVzpQyFzFEcZ1GbVIuV+4Q==",
+  "dgSpecHash": "EM2JzUG6iNFuXcMRYwS2uUg9zxTRmhob4g/sOURzQxFHKSHud0umyNeQPU60hEgB599t4CPubN/SYREF8CRx0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.FakeServices\\MON.Battle.FakeServices.csproj",
+  "projectFilePath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.FakeServices\\MON.Battle.FakeServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marci\\.nuget\\packages\\bogus\\31.0.2\\bogus.31.0.2.nupkg.sha512",
     "C:\\Users\\marci\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

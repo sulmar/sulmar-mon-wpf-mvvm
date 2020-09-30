@@ -228,11 +228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.Fakers\\MON.Battle.Fakers.csproj",
+      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.Fakers\\MON.Battle.Fakers.csproj",
       "projectName": "MON.Battle.Fakers",
-      "projectPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.Fakers\\MON.Battle.Fakers.csproj",
+      "projectPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.Fakers\\MON.Battle.Fakers.csproj",
       "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.Fakers\\obj\\",
+      "outputPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.Fakers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -256,8 +256,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.Models\\MON.Battle.Models.csproj": {
-              "projectPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.Models\\MON.Battle.Models.csproj"
+            "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.Models\\MON.Battle.Models.csproj": {
+              "projectPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.Models\\MON.Battle.Models.csproj"
             }
           }
         }

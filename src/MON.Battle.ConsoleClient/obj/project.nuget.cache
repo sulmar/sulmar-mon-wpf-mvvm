@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qgipSiOG0fvAHmVAi8mlJQg9A49b76dwVfGtR/X3CaSTqogm44G+zcgSbl4lXvZPD7ktTtXos1VNy152i6Cy7g==",
+  "dgSpecHash": "UvoQz/aQ/PSKJT1OHtlrDdSnBAnfKeT2ZlFVkyLpkmSzhi3vghEhzhzYy1ZbL0njp4v5ihBxRziiwjGyUhci1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.ConsoleClient\\MON.Battle.ConsoleClient.csproj",
+  "projectFilePath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.ConsoleClient\\MON.Battle.ConsoleClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

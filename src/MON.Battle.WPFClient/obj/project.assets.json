@@ -203,11 +203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.WPFClient\\MON.Battle.WPFClient.csproj",
+      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.WPFClient\\MON.Battle.WPFClient.csproj",
       "projectName": "MON.Battle.WPFClient",
-      "projectPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.WPFClient\\MON.Battle.WPFClient.csproj",
+      "projectPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.WPFClient\\MON.Battle.WPFClient.csproj",
       "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.WPFClient\\obj\\",
+      "outputPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.WPFClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -231,8 +231,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.ViewModels\\MON.Battle.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.ViewModels\\MON.Battle.ViewModels.csproj"
+            "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.ViewModels\\MON.Battle.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.ViewModels\\MON.Battle.ViewModels.csproj"
             }
           }
         }

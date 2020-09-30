@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\marci\source\repos\MON.Battle\MON.Battle.WPFClient\obj\Debug\netcoreapp3.1\
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.WPFClient\obj\Debug\netcoreapp3.1\
 MON.Battle.WPFClient
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\marci\source\repos\MON.Battle\MON.Battle.WPFClient\App.xaml
-111310935116
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.WPFClient\App.xaml
+14-366352684
 
 18-1612480115
-1991497603416
-FundamentalView.xaml;Views\Panels\CanvasView.xaml;Views\Panels\DockPanelView.xaml;Views\Panels\GridView.xaml;Views\Panels\StackPanelView.xaml;Views\Panels\UniformGridView.xaml;Views\Panels\WrapPanelView.xaml;Views\PersonsView.xaml;Views\ShellView.xaml;Views\VehiclesView.xaml;Views\VehicleView.xaml;
+199-74646649
+FundamentalView.xaml;Resources\ControlTemplates.xaml;Resources\DataTemplates.xaml;Resources\Styles.xaml;Views\Panels\CanvasView.xaml;Views\Panels\DockPanelView.xaml;Views\Panels\GridView.xaml;Views\Panels\StackPanelView.xaml;Views\Panels\UniformGridView.xaml;Views\Panels\WrapPanelView.xaml;Views\PersonsView.xaml;Views\ShellView.xaml;Views\VehiclesView.xaml;Views\VehicleView.xaml;
 
 True
 

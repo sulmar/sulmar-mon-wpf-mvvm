@@ -1,11 +1,33 @@
 ﻿using System;
+using System.ComponentModel;
 
 namespace MON.Battle.Models
 {
+
     public class Person : BaseEntity
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        private string firstName;
+        private string lastName;
+
+        public string FirstName
+        {
+            get => firstName;
+            set
+            {
+                firstName = value;
+                OnPropertyChanged();
+                OnPropertyChanged(nameof(FullName));
+            }
+        }
+        public string LastName
+        {
+            get => lastName; set
+            {
+                lastName = value;
+                OnPropertyChanged();
+                OnPropertyChanged(nameof(FullName));
+            }
+        }
         public string Photo { get; set; }
         public DateTime DateOfBirth { get; set; }
         public string Email { get; set; }

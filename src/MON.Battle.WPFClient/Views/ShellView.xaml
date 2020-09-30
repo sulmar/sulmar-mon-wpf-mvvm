@@ -4,37 +4,51 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MON.Battle.WPFClient.Views"
+       
         DataContext="{Binding Source={StaticResource ViewModelLocator}, Path=ShellViewModel}"
         mc:Ignorable="d"
         Title="ShellView" Height="450" Width="800">
+
+    <Window.Resources>
+       
+    </Window.Resources>
     <Grid>
 
         <DockPanel>
 
             <Menu DockPanel.Dock="Top" >
                 <MenuItem Header="File" />
-                <MenuItem Header="Views"> 
+                <MenuItem Header="Views">
                     <MenuItem Header="Vehicles" Command="{Binding ShowViewCommand}" CommandParameter="Vehicles" />
                     <MenuItem Header="Persons" Command="{Binding ShowViewCommand}" CommandParameter="Persons"
                               />
                 </MenuItem>
             </Menu>
-            
+
             <!-- Buttons -->
             <DockPanel DockPanel.Dock="Top">
-                <Button Command="{Binding ShowViewCommand}" CommandParameter="Vehicles">Vehicles</Button>
-                <Button Command="{Binding ShowViewCommand}" CommandParameter="Persons">Persons</Button>
+                
+                <Button
+                  Command="{Binding ShowViewCommand}"       CommandParameter="Vehicles">Vehicles</Button>
+                
+                <Button Command="{Binding ShowViewCommand}" 
+                    CommandParameter="Persons">Persons</Button>
+
+                <Button Style="{StaticResource SpecialButtonStyle}">Users</Button>
+                
                 <Button>Products</Button>
+                
+                
             </DockPanel>
 
             <!-- Status -->
             <StatusBar DockPanel.Dock="Bottom" >
                 <StatusBarItem>Ready</StatusBarItem>
             </StatusBar>
-            
+
             <!-- Content -->
             <Grid>
-                
+
                 <Frame Source="PersonsView.xaml" />
 
             </Grid>

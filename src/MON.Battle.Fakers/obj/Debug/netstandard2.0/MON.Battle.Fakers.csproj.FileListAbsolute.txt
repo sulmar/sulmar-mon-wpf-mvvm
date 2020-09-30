@@ -10,3 +10,15 @@ C:\Users\marci\source\repos\MON.Battle\MON.Battle.Fakers\obj\Debug\netstandard2.
 C:\Users\marci\source\repos\MON.Battle\MON.Battle.Fakers\bin\Debug\netstandard2.0\MON.Battle.Models.dll
 C:\Users\marci\source\repos\MON.Battle\MON.Battle.Fakers\bin\Debug\netstandard2.0\MON.Battle.Models.pdb
 C:\Users\marci\source\repos\MON.Battle\MON.Battle.Fakers\obj\Debug\netstandard2.0\MON.Battle.Fakers.csproj.CopyComplete
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\bin\Debug\netstandard2.0\MON.Battle.Fakers.deps.json
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\bin\Debug\netstandard2.0\MON.Battle.Fakers.dll
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\bin\Debug\netstandard2.0\MON.Battle.Fakers.pdb
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\bin\Debug\netstandard2.0\MON.Battle.Models.dll
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\bin\Debug\netstandard2.0\MON.Battle.Models.pdb
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\obj\Debug\netstandard2.0\MON.Battle.Fakers.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\obj\Debug\netstandard2.0\MON.Battle.Fakers.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\obj\Debug\netstandard2.0\MON.Battle.Fakers.AssemblyInfo.cs
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\obj\Debug\netstandard2.0\MON.Battle.Fakers.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\obj\Debug\netstandard2.0\MON.Battle.Fakers.csproj.CopyComplete
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\obj\Debug\netstandard2.0\MON.Battle.Fakers.dll
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.Fakers\obj\Debug\netstandard2.0\MON.Battle.Fakers.pdb

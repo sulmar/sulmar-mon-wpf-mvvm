@@ -42,6 +42,15 @@
     <Page Update="FundamentalView.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Resources\ControlTemplates.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\DataTemplates.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Styles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Views\Panels\CanvasView.xaml">
       <SubType>Designer</SubType>
     </Page>

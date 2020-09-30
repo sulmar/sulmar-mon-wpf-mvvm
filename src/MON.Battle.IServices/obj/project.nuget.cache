@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EdHK2SwmZ+9ziMwXdrXoQzdUAExRn3gP6gsOkzHbyFY9rXnQlwRKrgdC7ZP30bgJuNPY4vwf0R3SSCm0idwGXQ==",
+  "dgSpecHash": "SgL6aJqOrMo4Po+adzfH5wPHfe9NcqNDooE0peYo2UIRLi1XL6yudEZhvEm5exGuEz4D9c5kjFSKDYH5JNXj4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.IServices\\MON.Battle.IServices.csproj",
+  "projectFilePath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.IServices\\MON.Battle.IServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marci\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\marci\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

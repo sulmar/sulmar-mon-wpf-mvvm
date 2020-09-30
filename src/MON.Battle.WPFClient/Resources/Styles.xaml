@@ -1,0 +1,36 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                    xmlns:local="clr-namespace:MON.Battle.WPFClient.Resources">
+
+    <sys:Double x:Key="MyButtonWidth">100</sys:Double>
+    <sys:Double x:Key="MyButtonHeight">70</sys:Double>
+    <SolidColorBrush x:Key="MyBackgroundBrush" Color="Blue" />
+    <SolidColorBrush x:Key="MyForegroundBrush" Color="White" />
+    <Thickness x:Key="MyMargin" Left="5" Right="5" Top="5" Bottom="5" />
+
+    <Style x:Key="DefaultButtonStyle" TargetType="Button">
+        <Setter Property="Width" Value="{StaticResource MyButtonWidth}" />
+        <Setter Property="Height" Value="{StaticResource MyButtonHeight}" />
+        <Setter Property="Background" Value="Green" />
+        <Setter Property="Foreground" Value="White" />
+        <Setter Property="Margin" Value="5" />
+        <Setter Property="FontSize" Value="16" />
+
+        <Setter Property="Template" Value="{StaticResource MyButtonTemplate}" />
+    </Style>
+
+    <Style TargetType="Button" BasedOn="{StaticResource DefaultButtonStyle}" />
+
+    <Style x:Key="SpecialButtonStyle" TargetType="Button" BasedOn="{StaticResource DefaultButtonStyle}" >
+
+        <Setter Property="Background" Value="Blue" />
+    </Style>
+
+    <Style TargetType="ListBoxItem">
+        <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+    </Style>
+
+   
+    
+</ResourceDictionary>

@@ -10,3 +10,15 @@ C:\Users\marci\source\repos\MON.Battle\MON.Battle.IServices\obj\Debug\netstandar
 C:\Users\marci\source\repos\MON.Battle\MON.Battle.IServices\obj\Debug\netstandard2.0\MON.Battle.IServices.csproj.CopyComplete
 C:\Users\marci\source\repos\MON.Battle\MON.Battle.IServices\obj\Debug\netstandard2.0\MON.Battle.IServices.dll
 C:\Users\marci\source\repos\MON.Battle\MON.Battle.IServices\obj\Debug\netstandard2.0\MON.Battle.IServices.pdb
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\bin\Debug\netstandard2.0\MON.Battle.IServices.deps.json
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\bin\Debug\netstandard2.0\MON.Battle.IServices.dll
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\bin\Debug\netstandard2.0\MON.Battle.IServices.pdb
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\bin\Debug\netstandard2.0\MON.Battle.Models.dll
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\bin\Debug\netstandard2.0\MON.Battle.Models.pdb
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\obj\Debug\netstandard2.0\MON.Battle.IServices.csprojAssemblyReference.cache
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\obj\Debug\netstandard2.0\MON.Battle.IServices.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\obj\Debug\netstandard2.0\MON.Battle.IServices.AssemblyInfo.cs
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\obj\Debug\netstandard2.0\MON.Battle.IServices.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\obj\Debug\netstandard2.0\MON.Battle.IServices.csproj.CopyComplete
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\obj\Debug\netstandard2.0\MON.Battle.IServices.dll
+C:\Users\marci\source\repos\sulmar-mon-wpf-mvvm\src\MON.Battle.IServices\obj\Debug\netstandard2.0\MON.Battle.IServices.pdb

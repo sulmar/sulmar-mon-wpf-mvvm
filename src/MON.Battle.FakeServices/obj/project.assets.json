@@ -266,11 +266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.FakeServices\\MON.Battle.FakeServices.csproj",
+      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.FakeServices\\MON.Battle.FakeServices.csproj",
       "projectName": "MON.Battle.FakeServices",
-      "projectPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.FakeServices\\MON.Battle.FakeServices.csproj",
+      "projectPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.FakeServices\\MON.Battle.FakeServices.csproj",
       "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.FakeServices\\obj\\",
+      "outputPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.FakeServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -294,11 +294,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.Fakers\\MON.Battle.Fakers.csproj": {
-              "projectPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.Fakers\\MON.Battle.Fakers.csproj"
+            "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.Fakers\\MON.Battle.Fakers.csproj": {
+              "projectPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.Fakers\\MON.Battle.Fakers.csproj"
             },
-            "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.IServices\\MON.Battle.IServices.csproj": {
-              "projectPath": "C:\\Users\\marci\\source\\repos\\MON.Battle\\MON.Battle.IServices\\MON.Battle.IServices.csproj"
+            "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.IServices\\MON.Battle.IServices.csproj": {
+              "projectPath": "C:\\Users\\marci\\source\\repos\\sulmar-mon-wpf-mvvm\\src\\MON.Battle.IServices\\MON.Battle.IServices.csproj"
             }
           }
         }
